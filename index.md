@@ -24,6 +24,19 @@ CGPA: **3.86 / 4.00** *(Top of the Class)*
 
 ---
 
+## Academic Qualifications & Achievements
+
+- **IELTS Academic**: Overall Band **7.5**  
+  *(Listening 8.5, Reading 7.5, Writing 7.5, Speaking 7.0)* — British Council, January 2026  
+
+- **Academic Standing**: Graduated **Top of the Class** in Civil Engineering  
+  CGPA **3.86 / 4.00**, Sylhet Engineering College  
+
+- **Award**: Champion, *Game of Trusses*  
+  Civil Day & Cultural Night, Sylhet Engineering College  
+
+---
+
 ## Contact
 📧 **Email**: aminul.cee@gmail.com  
 🐙 **GitHub**: https://github.com/aminulcee  

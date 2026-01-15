@@ -13,4 +13,19 @@ I am particularly interested in applying data-driven and geospatial approaches t
 - Environmental Engineering  
 - Water Quality and Sediment Modeling  
 - Remote Sensing and GIS Applications  
-- M
+- Machine Learning and Data-Driven Methods in Civil Engineering  
+
+---
+
+## Education
+**B.Sc. (Engg.) in Civil Engineering**  
+Sylhet Engineering College  
+CGPA: **3.86 / 4.00** *(Top of the Class)*  
+
+---
+
+## Contact
+📧 **Email**: aminul.cee@gmail.com  
+🐙 **GitHub**: https://github.com/aminulcee  
+
+*Detailed information on projects, publications, and thesis-related code will be added progressively.*

@@ -15,7 +15,7 @@ Ananta Das Titu, Md. Jahir Bin Alam
 ### Manuscript in Preparation
 
 **Integrating Remote Sensing and Temporal Data for the Predictive Modeling of Total Suspended Solids (TSS)**  
-Md. Aminul Islam, Ananta Das Titu, Dr. Md. Abdur Rashid Sarker  
+Md. Aminul Islam, Dr. Md. Abdur Rashid Sarker  
 
 - Based on undergraduate thesis work  
 - **Status:** Manuscript in preparation for journal submission  
